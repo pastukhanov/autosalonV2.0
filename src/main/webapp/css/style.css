@@ -1,0 +1,39 @@
+.custom-section {
+    background-color: #f0f0f0; /* A light but distinct background */
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.section-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.project-description {
+    font-size: 16px;
+    color: #555;
+}
+
+.project-description li {
+    margin-bottom: 10px;
+}
+
+.dropdown-content div {
+    padding: 10px;
+    cursor: pointer;
+    background-color: white;
+    border: 1px solid #ddd;
+}
+
+.dropdown-content div:hover {
+    background-color: #f1f1f1;
+}
+
+.search-container {
+    position: relative;
+    display: inline-block;
+}
+
+
+/* Further styles for responsiveness and interactive elements can be added */

@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AutoSalon: web exploded">
+    <output-path>$PROJECT_DIR$/target/AutoSalon</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="AutoSalon" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="project" name="standard-1.1.2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="webapp/web/Web" />
+    </root>
+  </artifact>
+</component>
